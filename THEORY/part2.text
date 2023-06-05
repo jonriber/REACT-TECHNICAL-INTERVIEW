@@ -1,0 +1,11 @@
+What are React hooks, and why were they introduced in React 16.8?
+Explain the concept of context in React. When would you use it, and how do you implement it?
+How does React handle performance optimization? Share some techniques you can use to optimize a React application.
+What are the differences between controlled components and uncontrolled components in React? When would you choose one over the other?
+What is the purpose of the shouldComponentUpdate lifecycle method in React? How can you use it to optimize component rendering?
+Explain the concept of reconciliation in React. How does it work, and why is it important for efficient rendering?
+What is the purpose of the Fragment component in React? How does it help improve component structure and performance?
+How would you handle routing in a React application without using React Router? Describe the alternative approaches you can take.
+What is the significance of the key prop in React lists? Why is it important to provide a unique key for each item in a list?
+What are some techniques for handling state management in large-scale React applications? Discuss the pros and cons of using Redux versus React's built-in state 
+management capabilities.

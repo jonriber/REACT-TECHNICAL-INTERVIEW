@@ -4,6 +4,7 @@ Functional components are defined as JavaScript functions, while class component
 Functional components are simpler and more lightweight, while class components have more features and lifecycle methods.
 Functional components can use React hooks to manage state and lifecycle, while class components use lifecycle methods like componentDidMount and componentDidUpdate.
 Functional components promote the use of functional programming principles and are the recommended approach in modern React.
+
 State in React represents the internal data of a component that can change over time. It is managed using the useState hook or by extending the React class component 
 and using this.state. State is private and local to a component, and any changes to state trigger a re-render of the component. 
 In contrast, props are external data passed to a component, and they are read-only within the component.
